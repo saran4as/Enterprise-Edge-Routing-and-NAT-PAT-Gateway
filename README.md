@@ -1,6 +1,6 @@
-# Multi-VLAN Office Network with Inter-VLAN Routing and PAT
+# Enterprise-Edge-Routing-and-NAT-PAT-Gateway
 
-A small office network I built in Cisco Packet Tracer. Sales and Engineering are on separate VLANs, one router connects them, and the same router does PAT so both VLANs can reach an outside server through a single public IP.
+Built an enterprise-grade network simulation in Cisco Packet Tracer to demonstrate core routing, Layer 2/Layer 3 segmentation, and perimeter NAT/PAT services. This project models a corporate branch office environment where multiple internal departments share a single public WAN interface to reach an external ISP server.
 
 ![Topology](Topology diagram.png)
 
