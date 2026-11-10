@@ -2,7 +2,7 @@
 
 Built an enterprise-grade network simulation in Cisco Packet Tracer to demonstrate core routing, Layer 2/Layer 3 segmentation, and perimeter NAT/PAT services. This project models a corporate branch office environment where multiple internal departments share a single public WAN interface to reach an external ISP server.
 
-![Topology](Topology diagram.png)
+![Network Topology](Toplogy diagram.png)
 
 ## Addressing
 
